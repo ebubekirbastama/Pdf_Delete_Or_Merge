@@ -11,14 +11,14 @@ This C# software project allows users to delete pages from PDF files individuall
 
 ## Usage
 
-1. Download the project file from [here](https://github.com/ebubekirbastama/Pdf_Delete_Or_Merge/blob/main/EBS_Pdf_Delete_Page_and_Merge.zip).
+1. Download the project file from [here](https://github.com/ebubekirbastama/Pdf_Delete_Or_Merge/raw/main/EBS_Pdf_Delete_Page_and_Merge.zip).
 2. Extract the zip file and run the application executable.
 3. Choose the desired operation (page deletion or PDF merging) through the user-friendly interface.
 4. Enter the necessary information and start the process.
 
 ## Download
 
-You can download the project in binary form from [here](https://github.com/ebubekirbastama/Pdf_Delete_Or_Merge/blob/main/EBS_Pdf_Delete_Page_and_Merge.zip).
+You can download the project in binary form from [here](https://github.com/ebubekirbastama/Pdf_Delete_Or_Merge/raw/main/EBS_Pdf_Delete_Page_and_Merge.zip).
 
 ## Contribution
 
